@@ -1,0 +1,88 @@
+General:
+Ctrl+Shift+P / F1 - Command Palette
+Ctrl+P - Quick Open (Go to File)
+Ctrl+Shift+N - New Window
+Ctrl+, - Open Settings
+Ctrl+K Ctrl+S - Keyboard Shortcuts
+
+Basic Editing:
+Ctrl+X - Cut line
+Ctrl+C - Copy line
+Ctrl+V - Paste
+Ctrl+Shift+K - Delete line
+Ctrl+Enter - Insert line below
+Ctrl+Shift+Enter - Insert line above
+Alt+Up/Down - Move line up/down
+Shift+Alt+Up/Down - Copy line up/down
+Ctrl+Shift+\ - Jump to matching bracket
+Ctrl+] / Ctrl+[ - Indent / Outdent line
+Home / End - Go to start/end of line
+Ctrl+Home / Ctrl+End - Go to start/end of file
+Ctrl+Up/Down - Scroll line up/down
+
+Multi-cursor & Selection:
+Alt+Click - Insert cursor
+Ctrl+Alt+Up/Down - Insert cursor above/below
+Ctrl+U - Undo last cursor operation
+Ctrl+L - Select current line
+Ctrl+Shift+L - Select all occurrences of selection
+Ctrl+F2 - Select all occurrences of word
+Ctrl+D - Add selection to next Find match
+Shift+Alt+Up/Down - Column selection
+
+Search & Replace:
+Ctrl+F - Find
+Ctrl+H - Replace
+F3 / Shift+F3 - Find next/previous
+Alt+Enter - Select all matches
+Alt+C / Alt+R / Alt+W - Toggle case-sensitive/regex/whole word
+
+Navigation:
+Ctrl+T - Show all Symbols
+Ctrl+G - Go to Line
+Ctrl+Shift+O - Go to Symbol
+Ctrl+Shift+M - Show Problems panel
+F8 / Shift+F8 - Next/Previous error or warning
+Alt+Left/Right - Go back/forward
+
+Rich Languages:
+Ctrl+Space - Trigger suggestion
+Ctrl+Shift+Space - Trigger parameter hints
+Shift+Alt+F - Format document
+F12 - Go to Definition
+Alt+F12 - Peek Definition
+Ctrl+. - Quick Fix
+Shift+F12 - Show References
+F2 - Rename Symbol
+
+Editor Management:
+Ctrl+F4 - Close editor
+Ctrl+\ - Split editor
+Ctrl+1/2/3 - Focus 1st/2nd/3rd editor group
+Ctrl+W - Close editor tab
+Ctrl+Shift+T - Reopen closed editor
+
+File Management:
+Ctrl+N - New File
+Ctrl+O - Open File
+Ctrl+S - Save
+Ctrl+Shift+S - Save As
+Ctrl+K S - Save All
+
+Display:
+Ctrl+B - Toggle Sidebar
+Ctrl+Shift+E - Show Explorer
+Ctrl+Shift+F - Show Search
+Ctrl+Shift+G - Show Source Control
+Ctrl+Shift+D - Show Run/Debug
+Ctrl+Shift+X - Show Extensions
+Ctrl+` - Toggle Integrated Terminal
+Ctrl+J - Toggle Panel
+Ctrl+Shift+V - Open Markdown Preview
+
+Debug:
+F5 - Start Debugging
+F9 - Toggle Breakpoint
+F10 - Step Over
+F11 - Step Into
+Shift+F11 - Step Out
